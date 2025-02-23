@@ -4,12 +4,14 @@ import * as React from "react";
 import Home from './components/Home/Home';
 import About from './components/About/about';
 import Contact from './components/Contact/Contact';
+import App from './App.jsx';
+
 
 import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import Header from './components/Header/Header';
+
 
 
 
